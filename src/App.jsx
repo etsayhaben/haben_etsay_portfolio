@@ -25,7 +25,7 @@ function App() {
 
         <Box className="introduction">
           <Box className="homepage">
-            <p className="name">Hi, i am Haben</p>
+            <p className="name">Hi, i am Habe</p>
             <ul>
               <li>Full Stack Web Developer</li>
               <li>Networking Specialist</li>
